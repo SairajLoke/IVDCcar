@@ -2,6 +2,15 @@ from cv2 import VideoCapture
 import numpy as np
 import cv2
   
+  
+#  //IGNORE IGNORE IGNORE
+
+
+
+
+
+
+
 # Reading image
 # font = cv2.FONT_HERSHEY_COMPLEX
 

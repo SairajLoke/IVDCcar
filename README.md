@@ -9,7 +9,7 @@ during Inaugration of Tinkerer's Lab in IIT Indore.
 Future Iterations will be updated here and on my [website](https://sairajloke.github.io) as they are built. A lot more to come! 😃
 
 
-1.updated car (as of Sept. 15 2023) - 
+1.updated car (as of Sept. 15 2023) - (code not added here)
 
 ![demonst-1](https://github.com/SairajLoke/IVDCcar/assets/104747561/abfc4695-e871-4e8e-b7c9-7b1c2ddea98e)
 ![demonst-2](https://github.com/SairajLoke/IVDCcar/assets/104747561/9f82b109-c735-4aeb-9b7d-7b2bdb1c9ffe)

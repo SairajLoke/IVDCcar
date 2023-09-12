@@ -2,7 +2,7 @@
 Currently Collaborating with members of [project](https://github.com/IVDC-Club-IIT-Indore/IITISoC-23-IVR1-LaneDetection-using-LimitedComputationPower) -
 
 
-Had it presented to [Deepak Phatak](https://en.wikipedia.org/wiki/Deepak_B._Phatak), Hemant Kanakia , Aurio Soni,  many IIT Bombay Alumni, Faculties from IIT Indore, etc.
+Presented to [Deepak Phatak](https://en.wikipedia.org/wiki/Deepak_B._Phatak), Hemant Kanakia , Aurio Soni,  many IIT Bombay Alumni, Faculties from IIT Indore, etc.
 during Inaugration of Tinkerer's Lab in IIT Indore.
 
 

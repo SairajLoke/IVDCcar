@@ -5,6 +5,10 @@ implementing a lane following car using Python, OpenCV, RaspberryPi , Arduino ( 
 updated car (as of Sept. 15 2023) - 
 
 
+
+https://github.com/SairajLoke/IVDCcar/assets/104747561/3ab77653-7d46-457d-8f82-ce7a23f01f36
+
+
 Had it presented to [Deepak Phatak](https://en.wikipedia.org/wiki/Deepak_B._Phatak), Hemant Kanakia , Aurio Soni,  many IIT Bombay Alumni, Faculties from IIT Indore, etc.
 during Inaugration of Tinkerer's Lab in IIT Indore.
 

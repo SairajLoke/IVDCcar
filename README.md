@@ -9,7 +9,7 @@ during Inaugration of Tinkerer's Lab in IIT Indore.
 
 Currently Collaborating with members of this project - 
 
-Future Iterations will be updated here and on my [website](sairajloke.github.io) as they are built.
+Future Iterations will be updated here and on my [website](https://sairajloke.github.io) as they are built.
 
 
 1.updated car (as of Sept. 15 2023) - 
